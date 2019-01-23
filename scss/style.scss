@@ -74,7 +74,7 @@
   z-index: -10;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-image: url(../../img/background.png);
+  background-image: url(../img/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   &__img{
@@ -104,7 +104,7 @@
 
 @media screen and(max-width: 900px){
   .main{
-    background-image:url(../../img/background-media.png);
+    background-image:url(../img/background-media.png);
   &__text{
     width: 80%;
     margin: 2em auto;
@@ -117,7 +117,7 @@
 }
 
 .damiana{
-  background: url(../../img/damiana_fundo.png);
+  background: url(../img/damiana_fundo.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 95vh;
@@ -228,7 +228,7 @@
 
 
 .caique{
-  background: url(../../img/caique_fundo.png);
+  background: url(../img/caique_fundo.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 95vh;
@@ -344,7 +344,7 @@
 }
 
 .ivoneide{
-  background: url(../../img/ivoneide_fundo.png);
+  background: url(../img/ivoneide_fundo.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 95vh;
@@ -445,7 +445,7 @@
 }
 
 .joana{
-  background: url(../../img/joana_fundo.png);
+  background: url(../img/joana_fundo.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 95vh;
